@@ -20,5 +20,6 @@
     {"name":"zombie","order":2,"path":"sprites/zombie/zombie.yy",},
     {"name":"vida","order":3,"path":"sprites/vida/vida.yy",},
     {"name":"huevito","order":1,"path":"sprites/huevito/huevito.yy",},
+    {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
   ],
 }

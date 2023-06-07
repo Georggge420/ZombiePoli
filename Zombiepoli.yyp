@@ -39,6 +39,7 @@
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"PruebaSprite","path":"sprites/PruebaSprite/PruebaSprite.yy",},},
     {"id":{"name":"huevito","path":"sprites/huevito/huevito.yy",},},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
