@@ -36,7 +36,11 @@
   "resources": [
     {"id":{"name":"refresco","path":"sprites/refresco/refresco.yy",},},
     {"id":{"name":"zombie","path":"sprites/zombie/zombie.yy",},},
+    {"id":{"name":"DanteQuieto","path":"sprites/DanteQuieto/DanteQuieto.yy",},},
+    {"id":{"name":"DanteDerecha","path":"sprites/DanteDerecha/DanteDerecha.yy",},},
+    {"id":{"name":"DanteIzquierda","path":"sprites/DanteIzquierda/DanteIzquierda.yy",},},
     {"id":{"name":"vida","path":"sprites/vida/vida.yy",},},
+    {"id":{"name":"Mansion","path":"rooms/Mansion/Mansion.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"PruebaSprite","path":"sprites/PruebaSprite/PruebaSprite.yy",},},
     {"id":{"name":"huevito","path":"sprites/huevito/huevito.yy",},},
@@ -45,6 +49,7 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Mansion","path":"rooms/Mansion/Mansion.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},

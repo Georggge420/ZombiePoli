@@ -19,7 +19,11 @@
   "ResourceOrderSettings": [
     {"name":"refresco","order":5,"path":"sprites/refresco/refresco.yy",},
     {"name":"zombie","order":2,"path":"sprites/zombie/zombie.yy",},
+    {"name":"DanteQuieto","order":6,"path":"sprites/DanteQuieto/DanteQuieto.yy",},
+    {"name":"DanteDerecha","order":8,"path":"sprites/DanteDerecha/DanteDerecha.yy",},
+    {"name":"DanteIzquierda","order":7,"path":"sprites/DanteIzquierda/DanteIzquierda.yy",},
     {"name":"vida","order":3,"path":"sprites/vida/vida.yy",},
+    {"name":"Mansion","order":1,"path":"rooms/Mansion/Mansion.yy",},
     {"name":"huevito","order":1,"path":"sprites/huevito/huevito.yy",},
     {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
   ],
