@@ -12,6 +12,5 @@ function scriptPlayerMovment(){
 		mirada(dir);
 	}else{
 		action="Idle";
-		face = "D";
 	}
 }
