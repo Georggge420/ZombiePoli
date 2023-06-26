@@ -25,6 +25,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"refresco","order":1,"path":"sprites/refresco/refresco.yy",},
+    {"name":"Kitchen","order":4,"path":"sprites/Kitchen/Kitchen.yy",},
     {"name":"huevo","order":3,"path":"objects/huevo/huevo.yy",},
     {"name":"Player","order":1,"path":"objects/Player/Player.yy",},
     {"name":"sprPlayerIdleDL","order":2,"path":"sprites/sprPlayerIdleDL/sprPlayerIdleDL.yy",},
@@ -32,6 +33,7 @@
     {"name":"sprPlayerRunDL","order":1,"path":"sprites/sprPlayerRunDL/sprPlayerRunDL.yy",},
     {"name":"Mansion","order":1,"path":"rooms/Mansion/Mansion.yy",},
     {"name":"Zombie1","order":2,"path":"objects/Zombie1/Zombie1.yy",},
+    {"name":"Main_hall","order":5,"path":"sprites/Main_hall/Main_hall.yy",},
     {"name":"Bed_room","order":3,"path":"sprites/Bed_room/Bed_room.yy",},
     {"name":"scriptDibujaVida","order":1,"path":"scripts/scriptDibujaVida/scriptDibujaVida.yy",},
     {"name":"PruebaSprite","order":2,"path":"sprites/PruebaSprite/PruebaSprite.yy",},
