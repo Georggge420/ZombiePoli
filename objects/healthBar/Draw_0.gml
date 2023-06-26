@@ -37,5 +37,8 @@ if(global.vida > 20 && global.vidaTot == 7){
 		global.vida=20;
 }
 
-draw_sprite(sprVidaRojo, global.vida, view_xport[0], view_yport[0]);
-draw_sprite(sprVidaContorno, global.vidaTot, view_xport[0], view_yport[0]);
+xview = camera_get_view_x(view_camera[0]);
+yview = camera_get_view_y(view_camera[0]);
+
+draw_sprite(sprVidaRojo, global.vida, xview+32, yview+32);
+draw_sprite(sprVidaContorno, global.vidaTot, xview+32, yview+32);
