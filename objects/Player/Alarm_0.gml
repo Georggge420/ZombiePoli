@@ -1,0 +1,2 @@
+hitColdown = true;
+healColdown = true;
