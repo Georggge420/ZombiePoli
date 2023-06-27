@@ -34,17 +34,16 @@
     "IDEVersion": "2023.4.0.84",
   },
   "resources": [
+    {"id":{"name":"monster","path":"sprites/monster/monster.yy",},},
+    {"id":{"name":"chilaquiles","path":"sprites/chilaquiles/chilaquiles.yy",},},
     {"id":{"name":"zombie","path":"sprites/zombie/zombie.yy",},},
     {"id":{"name":"vida","path":"sprites/vida/vida.yy",},},
-    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"PruebaSprite","path":"sprites/PruebaSprite/PruebaSprite.yy",},},
     {"id":{"name":"huevito","path":"sprites/huevito/huevito.yy",},},
-    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"cama","path":"sprites/cama/cama.yy",},},
+    {"id":{"name":"sprGatito","path":"sprites/sprGatito/sprGatito.yy",},},
   ],
-  "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-  ],
+  "RoomOrderNodes": [],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],

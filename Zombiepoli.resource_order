@@ -17,9 +17,12 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"monster","order":5,"path":"sprites/monster/monster.yy",},
+    {"name":"chilaquiles","order":6,"path":"sprites/chilaquiles/chilaquiles.yy",},
     {"name":"zombie","order":2,"path":"sprites/zombie/zombie.yy",},
     {"name":"vida","order":3,"path":"sprites/vida/vida.yy",},
     {"name":"huevito","order":1,"path":"sprites/huevito/huevito.yy",},
-    {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"cama","order":7,"path":"sprites/cama/cama.yy",},
+    {"name":"sprGatito","order":4,"path":"sprites/sprGatito/sprGatito.yy",},
   ],
 }
