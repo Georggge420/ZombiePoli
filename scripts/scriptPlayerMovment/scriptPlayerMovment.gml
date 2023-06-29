@@ -13,4 +13,6 @@ function scriptPlayerMovment(){
 	}else{
 		action="Idle";
 	}
+	
+	
 }

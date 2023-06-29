@@ -1,2 +1,2 @@
-hitColdown = true;
-healColdown = true;
+hitColdown = 0;
+healColdown = 0;
