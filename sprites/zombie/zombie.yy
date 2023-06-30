@@ -4,7 +4,7 @@
   "name": "zombie",
   "bbox_bottom": 126,
   "bbox_left": 21,
-  "bbox_right": 100,
+  "bbox_right": 97,
   "bbox_top": 2,
   "bboxMode": 0,
   "collisionKind": 1,

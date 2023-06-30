@@ -1,1 +1,1 @@
-scriptPlayerHit(1,60);
+scriptPlayerHit(1,30);
