@@ -1,18 +1,14 @@
-
+//Update spirte
 function scriptPlayerMovment(){
-	var hor = keyboard_check(ord("D")) - keyboard_check(ord("A"));
-	var ver = keyboard_check(ord("S")) - keyboard_check(ord("W"));
-
-	if(hor != 0 || ver!=0){
-		var dir = point_direction(0,0,hor,ver);
-		x += lengthdir_x(6,dir);
-		y += lengthdir_y(6,dir);
-		
-		action="Run";
-		mirada(dir);
-	}else{
-		action="Idle";
-	}
+	var _cardinalDirection = round(direction/90);
+	var _totalFremes = sprite_get_number(sprite_index) / 4;
+	image_index = localFrame + (_cardinalDirection  * _totalFremes);
+	localFrame += sprite_get_speed(sprite_index) / FRAME_RATE;
 	
+	//if animation would loop on next game step
+	if(localFrame >= _totalFremes){
+		animationEnd = true;
+		localFrame -= _totalFremes;
+	}else animationEnd = false;
 	
 }
