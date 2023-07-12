@@ -17,4 +17,9 @@ function scriptPlayerStateFree(){
          scriptPlayerMovment();
 		hitColdown = max(hitColdown-1,0);
 		healColdown = max(healColdown-1,0)
+		
+		if(keyActivate){
+			state = scriptPlayerRoll;
+			moveDistanceRemaining = distanceRoll;
+		}
 }
