@@ -14,4 +14,10 @@ function scriptPlayerRoll(){
 	if(moveDistanceRemaining <= 0){
 		state = scriptPlayerStateFree;
 	}
+	
+	if(_collided){
+		state = scriptPlayerBonk;
+		moveDistanceRemaining = distanceBonk;
+		scriptScreenShake(6,30);
+	}
 }

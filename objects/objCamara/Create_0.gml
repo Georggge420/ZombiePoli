@@ -7,6 +7,6 @@ yTo = ystart;
 
 shakeLength = 0;
 shakeMagnitude = 0;
-shakeRamin = 0;
+shakeRemain = 0;
 
 

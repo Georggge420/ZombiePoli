@@ -9,6 +9,5 @@ x2Target = RESOLUTION_W - 200;
 lerpProgress = 0;
 textProgress = 0;
 
-mesagge = "Default Mesagge Text";
-background = 0;
+
 
