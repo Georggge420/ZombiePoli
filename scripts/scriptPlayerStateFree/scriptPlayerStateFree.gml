@@ -17,4 +17,26 @@ function scriptPlayerStateFree(){
          scriptPlayerMovment();
 		hitColdown = max(hitColdown-1,0);
 		healColdown = max(healColdown-1,0)
+		
+		if(keyActivate){
+			//interaccion con entidad
+			
+			var _activateX = lengthdir_x(10,direction);
+			var _activateY = lengthdir_y(10, direction);
+			activate = instance_position(x+_activateX,(y-8)+_activateY,cEntidad)
+			
+			if(activate == noone || activate.entidadActivateScript == -1){
+				state = scriptPlayerRoll;
+				moveDistanceRemaining = distanceRoll;
+			}else{
+				script_execute_ext(activate.entidadActivateScript,activate.entidadActivateArgs);
+				
+				if(activate.entidadNPC){
+					with(activate){
+						direction = point_direction(x,y,other.x,other.y);
+						image_index = CARDINAL_DIR;
+					}
+				}
+			}
+		}
 }
