@@ -42,6 +42,7 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Vida","folderPath":"folders/Sprites/Vida.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"outside-stuff","folderPath":"folders/Sprites/outside-stuff.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
@@ -51,21 +52,37 @@
   },
   "resources": [
     {"id":{"name":"monster","path":"sprites/monster/monster.yy",},},
+    {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"chilaquiles","path":"sprites/chilaquiles/chilaquiles.yy",},},
     {"id":{"name":"scriptCalcAttack","path":"scripts/scriptCalcAttack/scriptCalcAttack.yy",},},
+    {"id":{"name":"bush1","path":"sprites/bush1/bush1.yy",},},
+    {"id":{"name":"trees1","path":"sprites/trees1/trees1.yy",},},
     {"id":{"name":"zombie","path":"sprites/zombie/zombie.yy",},},
+    {"id":{"name":"Menu1_2","path":"rooms/Menu1_2/Menu1_2.yy",},},
+    {"id":{"name":"grass1","path":"sprites/grass1/grass1.yy",},},
     {"id":{"name":"scriptPlayerMovment","path":"scripts/scriptPlayerMovment/scriptPlayerMovment.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"Zombie1","path":"objects/Zombie1/Zombie1.yy",},},
     {"id":{"name":"sCarta","path":"sprites/sCarta/sCarta.yy",},},
     {"id":{"name":"eHitDestroy","path":"scripts/eHitDestroy/eHitDestroy.yy",},},
+=======
+<<<<<<< HEAD
+    {"id":{"name":"streetSidewalks","path":"sprites/streetSidewalks/streetSidewalks.yy",},},
+=======
+    {"id":{"name":"sCarta","path":"sprites/sCarta/sCarta.yy",},},
+>>>>>>> 25f8fc3db2bfcfb283b267fd93bf22376b47a530
+>>>>>>> 671c19c1aa0b36c9dbf2258d7cca45dc512d190f
     {"id":{"name":"refresco","path":"sprites/refresco/refresco.yy",},},
     {"id":{"name":"trucha","path":"sprites/trucha/trucha.yy",},},
+    {"id":{"name":"flowers3","path":"sprites/flowers3/flowers3.yy",},},
     {"id":{"name":"sprCol","path":"sprites/sprCol/sprCol.yy",},},
+    {"id":{"name":"flowers2","path":"sprites/flowers2/flowers2.yy",},},
     {"id":{"name":"scriptPlayerCollision","path":"scripts/scriptPlayerCollision/scriptPlayerCollision.yy",},},
     {"id":{"name":"sprPlayerJap","path":"sprites/sprPlayerJap/sprPlayerJap.yy",},},
     {"id":{"name":"sprTrigger","path":"sprites/sprTrigger/sprTrigger.yy",},},
     {"id":{"name":"scriptScreenShake","path":"scripts/scriptScreenShake/scriptScreenShake.yy",},},
     {"id":{"name":"Kitchen","path":"sprites/Kitchen/Kitchen.yy",},},
+    {"id":{"name":"trunk4","path":"sprites/trunk4/trunk4.yy",},},
     {"id":{"name":"huevo","path":"objects/huevo/huevo.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
     {"id":{"name":"cuchillo","path":"sprites/cuchillo/cuchillo.yy",},},
@@ -74,10 +91,19 @@
     {"id":{"name":"katana","path":"sprites/katana/katana.yy",},},
     {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},},
     {"id":{"name":"scriptPlayerHeal","path":"scripts/scriptPlayerHeal/scriptPlayerHeal.yy",},},
+<<<<<<< HEAD
+    {"id":{"name":"trunk1","path":"sprites/trunk1/trunk1.yy",},},
+    {"id":{"name":"trees2","path":"sprites/trees2/trees2.yy",},},
+    {"id":{"name":"scriptPlayerDead","path":"scripts/scriptPlayerDead/scriptPlayerDead.yy",},},
+    {"id":{"name":"tilCol","path":"tilesets/tilCol/tilCol.yy",},},
+    {"id":{"name":"Mansion","path":"rooms/Mansion/Mansion.yy",},},
+    {"id":{"name":"playButton","path":"objects/playButton/playButton.yy",},},
+=======
     {"id":{"name":"oTextQueued","path":"objects/oTextQueued/oTextQueued.yy",},},
     {"id":{"name":"scriptPlayerDead","path":"scripts/scriptPlayerDead/scriptPlayerDead.yy",},},
     {"id":{"name":"sprPlayerJapHB","path":"sprites/sprPlayerJapHB/sprPlayerJapHB.yy",},},
     {"id":{"name":"tilCol","path":"tilesets/tilCol/tilCol.yy",},},
+>>>>>>> 25f8fc3db2bfcfb283b267fd93bf22376b47a530
     {"id":{"name":"scriptPlayerHealUp","path":"scripts/scriptPlayerHealUp/scriptPlayerHealUp.yy",},},
     {"id":{"name":"oCarta","path":"objects/oCarta/oCarta.yy",},},
     {"id":{"name":"shWhiteFlash","path":"shaders/shWhiteFlash/shWhiteFlash.yy",},},
@@ -86,18 +112,27 @@
     {"id":{"name":"scriptPlayerRoll","path":"scripts/scriptPlayerRoll/scriptPlayerRoll.yy",},},
     {"id":{"name":"scriptPlayerLocked","path":"scripts/scriptPlayerLocked/scriptPlayerLocked.yy",},},
     {"id":{"name":"sprPlayerDead","path":"sprites/sprPlayerDead/sprPlayerDead.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"Mansion","path":"rooms/Mansion/Mansion.yy",},},
+=======
+    {"id":{"name":"trunk2","path":"sprites/trunk2/trunk2.yy",},},
+>>>>>>> 671c19c1aa0b36c9dbf2258d7cca45dc512d190f
     {"id":{"name":"escopeta","path":"sprites/escopeta/escopeta.yy",},},
+    {"id":{"name":"grass2","path":"sprites/grass2/grass2.yy",},},
     {"id":{"name":"healthBar","path":"objects/healthBar/healthBar.yy",},},
     {"id":{"name":"meleeAttack","path":"scripts/meleeAttack/meleeAttack.yy",},},
     {"id":{"name":"cEntidad","path":"objects/cEntidad/cEntidad.yy",},},
     {"id":{"name":"oPuerta","path":"objects/oPuerta/oPuerta.yy",},},
     {"id":{"name":"Main_hall","path":"sprites/Main_hall/Main_hall.yy",},},
+<<<<<<< HEAD
+    {"id":{"name":"trees4","path":"sprites/trees4/trees4.yy",},},
+=======
     {"id":{"name":"sprSombra","path":"sprites/sprSombra/sprSombra.yy",},},
     {"id":{"name":"Sala","path":"rooms/Sala/Sala.yy",},},
     {"id":{"name":"sprPlayerBonk","path":"sprites/sprPlayerBonk/sprPlayerBonk.yy",},},
     {"id":{"name":"oText","path":"objects/oText/oText.yy",},},
     {"id":{"name":"scriptPlayerBonk","path":"scripts/scriptPlayerBonk/scriptPlayerBonk.yy",},},
+>>>>>>> 25f8fc3db2bfcfb283b267fd93bf22376b47a530
     {"id":{"name":"Bed_room","path":"sprites/Bed_room/Bed_room.yy",},},
     {"id":{"name":"scriptNewTextbox","path":"scripts/scriptNewTextbox/scriptNewTextbox.yy",},},
     {"id":{"name":"eHitSolid","path":"scripts/eHitSolid/eHitSolid.yy",},},
@@ -105,9 +140,13 @@
     {"id":{"name":"PruebaSprite","path":"sprites/PruebaSprite/PruebaSprite.yy",},},
     {"id":{"name":"tFont1","path":"fonts/tFont1/tFont1.yy",},},
     {"id":{"name":"sprVidaRojo","path":"sprites/sprVidaRojo/sprVidaRojo.yy",},},
+    {"id":{"name":"bush3","path":"sprites/bush3/bush3.yy",},},
+    {"id":{"name":"flowers1","path":"sprites/flowers1/flowers1.yy",},},
     {"id":{"name":"sprPlayerRun","path":"sprites/sprPlayerRun/sprPlayerRun.yy",},},
     {"id":{"name":"objGame","path":"objects/objGame/objGame.yy",},},
+    {"id":{"name":"trees3","path":"sprites/trees3/trees3.yy",},},
     {"id":{"name":"scriptPlayerHit","path":"scripts/scriptPlayerHit/scriptPlayerHit.yy",},},
+    {"id":{"name":"trunk3","path":"sprites/trunk3/trunk3.yy",},},
     {"id":{"name":"huevito","path":"sprites/huevito/huevito.yy",},},
     {"id":{"name":"cama","path":"sprites/cama/cama.yy",},},
     {"id":{"name":"objCamara","path":"objects/objCamara/objCamara.yy",},},
@@ -116,16 +155,37 @@
     {"id":{"name":"Cuarto","path":"rooms/Cuarto/Cuarto.yy",},},
     {"id":{"name":"Sprite20","path":"sprites/Sprite20/Sprite20.yy",},},
     {"id":{"name":"pistola","path":"sprites/pistola/pistola.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"sprPuertaDestruida","path":"sprites/sprPuertaDestruida/sprPuertaDestruida.yy",},},
+=======
+    {"id":{"name":"bush2","path":"sprites/bush2/bush2.yy",},},
+>>>>>>> 671c19c1aa0b36c9dbf2258d7cca45dc512d190f
     {"id":{"name":"sprPlayerIdle","path":"sprites/sprPlayerIdle/sprPlayerIdle.yy",},},
+<<<<<<< HEAD
+    {"id":{"name":"trees5","path":"sprites/trees5/trees5.yy",},},
+=======
     {"id":{"name":"sTextBoxes","path":"sprites/sTextBoxes/sTextBoxes.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"scriptPlayerAttack","path":"scripts/scriptPlayerAttack/scriptPlayerAttack.yy",},},
+=======
+>>>>>>> 25f8fc3db2bfcfb283b267fd93bf22376b47a530
+>>>>>>> 671c19c1aa0b36c9dbf2258d7cca45dc512d190f
     {"id":{"name":"sprGatito","path":"sprites/sprGatito/sprGatito.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"Cuarto","path":"rooms/Cuarto/Cuarto.yy",},},
+<<<<<<< HEAD
     {"roomId":{"name":"Sala","path":"rooms/Sala/Sala.yy",},},
     {"roomId":{"name":"Mansion","path":"rooms/Mansion/Mansion.yy",},},
+=======
+    {"roomId":{"name":"Mansion","path":"rooms/Mansion/Mansion.yy",},},
+<<<<<<< HEAD
+    {"roomId":{"name":"Menu1_2","path":"rooms/Menu1_2/Menu1_2.yy",},},
+=======
+    {"roomId":{"name":"Sala","path":"rooms/Sala/Sala.yy",},},
+>>>>>>> 25f8fc3db2bfcfb283b267fd93bf22376b47a530
+>>>>>>> 671c19c1aa0b36c9dbf2258d7cca45dc512d190f
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
