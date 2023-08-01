@@ -61,14 +61,11 @@
     {"id":{"name":"Menu1_2","path":"rooms/Menu1_2/Menu1_2.yy",},},
     {"id":{"name":"grass1","path":"sprites/grass1/grass1.yy",},},
     {"id":{"name":"scriptPlayerMovment","path":"scripts/scriptPlayerMovment/scriptPlayerMovment.yy",},},
-<<<<<<< HEAD
     {"id":{"name":"Zombie1","path":"objects/Zombie1/Zombie1.yy",},},
     {"id":{"name":"sCarta","path":"sprites/sCarta/sCarta.yy",},},
     {"id":{"name":"eHitDestroy","path":"scripts/eHitDestroy/eHitDestroy.yy",},},
-=======
     {"id":{"name":"streetSidewalks","path":"sprites/streetSidewalks/streetSidewalks.yy",},},
     {"id":{"name":"sCarta","path":"sprites/sCarta/sCarta.yy",},},
->>>>>>> 671c19c1aa0b36c9dbf2258d7cca45dc512d190f
     {"id":{"name":"refresco","path":"sprites/refresco/refresco.yy",},},
     {"id":{"name":"trucha","path":"sprites/trucha/trucha.yy",},},
     {"id":{"name":"flowers3","path":"sprites/flowers3/flowers3.yy",},},
@@ -106,11 +103,8 @@
     {"id":{"name":"scriptPlayerRoll","path":"scripts/scriptPlayerRoll/scriptPlayerRoll.yy",},},
     {"id":{"name":"scriptPlayerLocked","path":"scripts/scriptPlayerLocked/scriptPlayerLocked.yy",},},
     {"id":{"name":"sprPlayerDead","path":"sprites/sprPlayerDead/sprPlayerDead.yy",},},
-<<<<<<< HEAD
     {"id":{"name":"Mansion","path":"rooms/Mansion/Mansion.yy",},},
-=======
     {"id":{"name":"trunk2","path":"sprites/trunk2/trunk2.yy",},},
->>>>>>> 671c19c1aa0b36c9dbf2258d7cca45dc512d190f
     {"id":{"name":"escopeta","path":"sprites/escopeta/escopeta.yy",},},
     {"id":{"name":"grass2","path":"sprites/grass2/grass2.yy",},},
     {"id":{"name":"healthBar","path":"objects/healthBar/healthBar.yy",},},
@@ -146,21 +140,15 @@
     {"id":{"name":"Cuarto","path":"rooms/Cuarto/Cuarto.yy",},},
     {"id":{"name":"Sprite20","path":"sprites/Sprite20/Sprite20.yy",},},
     {"id":{"name":"pistola","path":"sprites/pistola/pistola.yy",},},
-<<<<<<< HEAD
     {"id":{"name":"sprPuertaDestruida","path":"sprites/sprPuertaDestruida/sprPuertaDestruida.yy",},},
-=======
     {"id":{"name":"bush2","path":"sprites/bush2/bush2.yy",},},
->>>>>>> 671c19c1aa0b36c9dbf2258d7cca45dc512d190f
     {"id":{"name":"sprPlayerIdle","path":"sprites/sprPlayerIdle/sprPlayerIdle.yy",},},
     {"id":{"name":"trees5","path":"sprites/trees5/trees5.yy",},},
     {"id":{"name":"sTextBoxes","path":"sprites/sTextBoxes/sTextBoxes.yy",},},
 <<<<<<< HEAD
     {"id":{"name":"scriptPlayerAttack","path":"scripts/scriptPlayerAttack/scriptPlayerAttack.yy",},},
 =======
->>>>>>> 671c19c1aa0b36c9dbf2258d7cca45dc512d190f
     {"id":{"name":"sprGatito","path":"sprites/sprGatito/sprGatito.yy",},},
-  ],
-  "RoomOrderNodes": [
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"Cuarto","path":"rooms/Cuarto/Cuarto.yy",},},
 <<<<<<< HEAD
