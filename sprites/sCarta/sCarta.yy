@@ -13,8 +13,8 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a3f30107-b733-4857-b733-ab1b19e39a6d",},
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"57cdca20-bc2e-4da0-ad6f-3e9f8f4019fc",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a3f30107-b733-4857-b733-ab1b19e39a6d",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -55,8 +55,8 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a3f30107-b733-4857-b733-ab1b19e39a6d","path":"sprites/sCarta/sCarta.yy",},},},"Disabled":false,"id":"11d6e73a-4c38-47d2-ba38-8abe9462a90a","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"57cdca20-bc2e-4da0-ad6f-3e9f8f4019fc","path":"sprites/sCarta/sCarta.yy",},},},"Disabled":false,"id":"322724ba-b632-4efc-a46a-9a04729b9678","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"57cdca20-bc2e-4da0-ad6f-3e9f8f4019fc","path":"sprites/sCarta/sCarta.yy",},},},"Disabled":false,"id":"322724ba-b632-4efc-a46a-9a04729b9678","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a3f30107-b733-4857-b733-ab1b19e39a6d","path":"sprites/sCarta/sCarta.yy",},},},"Disabled":false,"id":"11d6e73a-4c38-47d2-ba38-8abe9462a90a","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

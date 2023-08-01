@@ -4,12 +4,18 @@
   "name": "Zombie1",
   "eventList": [],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"cEntidad","path":"objects/cEntidad/cEntidad.yy",},"propertyId":{"name":"entidadHostil","path":"objects/cEntidad/cEntidad.yy",},"value":"True",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"cEntidad","path":"objects/cEntidad/cEntidad.yy",},"propertyId":{"name":"entidadHitScript","path":"objects/cEntidad/cEntidad.yy",},"value":"eHitDestroy",},
+  ],
   "parent": {
     "name": "Personajes",
     "path": "folders/Objects/Personajes.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "cEntidad",
+    "path": "objects/cEntidad/cEntidad.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

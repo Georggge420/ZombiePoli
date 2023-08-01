@@ -3,14 +3,16 @@
   "resourceVersion": "1.0",
   "name": "oCarta",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"cEntidad","path":"objects/cEntidad/cEntidad.yy",},"propertyId":{"name":"entidadActivateScript","path":"objects/cEntidad/cEntidad.yy",},"value":"scriptNewTextbox",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"cEntidad","path":"objects/cEntidad/cEntidad.yy",},"propertyId":{"name":"entidadActivateArgs","path":"objects/cEntidad/cEntidad.yy",},"value":"[\"Jamas pense en perder a mi esposa y a mi hija \\n MALDITOS ZOMIBIES!!!\",1]",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"cEntidad","path":"objects/cEntidad/cEntidad.yy",},"propertyId":{"name":"entidadSombra","path":"objects/cEntidad/cEntidad.yy",},"value":"True",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"cEntidad","path":"objects/cEntidad/cEntidad.yy",},"propertyId":{"name":"entidadHitScript","path":"objects/cEntidad/cEntidad.yy",},"value":"eHitSolid",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"cEntidad","path":"objects/cEntidad/cEntidad.yy",},"propertyId":{"name":"entidadSombra","path":"objects/cEntidad/cEntidad.yy",},"value":"False",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"cEntidad","path":"objects/cEntidad/cEntidad.yy",},"propertyId":{"name":"entidadCollision","path":"objects/cEntidad/cEntidad.yy",},"value":"True",},
   ],
   "parent": {
     "name": "Extras",

@@ -15,8 +15,15 @@ function scriptPlayerStateFree(){
 
         //Unpdate Image Index
          scriptPlayerMovment();
+		 
 		hitColdown = max(hitColdown-1,0);
-		healColdown = max(healColdown-1,0)
+		healColdown = max(healColdown-1,0);
+		
+		//key attack
+		if(keyAttack){
+			state = scriptPlayerAttack;
+			stateAttack = meleeAttack;
+		}
 		
 		if(keyActivate){
 			//interaccion con entidad
