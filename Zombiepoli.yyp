@@ -39,20 +39,19 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Enemigos","folderPath":"folders/Sprites/Enemigos.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extras","folderPath":"folders/Sprites/Extras.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Items","folderPath":"folders/Sprites/Items.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"outside-stuff","folderPath":"folders/Sprites/outside-stuff.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Vida","folderPath":"folders/Sprites/Vida.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"outside-stuff","folderPath":"folders/Sprites/outside-stuff.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.89",
+    "IDEVersion": "2023.6.0.92",
   },
   "resources": [
     {"id":{"name":"monster","path":"sprites/monster/monster.yy",},},
-    {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"chilaquiles","path":"sprites/chilaquiles/chilaquiles.yy",},},
     {"id":{"name":"scriptCalcAttack","path":"scripts/scriptCalcAttack/scriptCalcAttack.yy",},},
     {"id":{"name":"bush1","path":"sprites/bush1/bush1.yy",},},
@@ -62,7 +61,6 @@
     {"id":{"name":"grass1","path":"sprites/grass1/grass1.yy",},},
     {"id":{"name":"scriptPlayerMovment","path":"scripts/scriptPlayerMovment/scriptPlayerMovment.yy",},},
     {"id":{"name":"Zombie1","path":"objects/Zombie1/Zombie1.yy",},},
-    {"id":{"name":"sCarta","path":"sprites/sCarta/sCarta.yy",},},
     {"id":{"name":"eHitDestroy","path":"scripts/eHitDestroy/eHitDestroy.yy",},},
     {"id":{"name":"streetSidewalks","path":"sprites/streetSidewalks/streetSidewalks.yy",},},
     {"id":{"name":"sCarta","path":"sprites/sCarta/sCarta.yy",},},
@@ -87,9 +85,6 @@
     {"id":{"name":"scriptPlayerHeal","path":"scripts/scriptPlayerHeal/scriptPlayerHeal.yy",},},
     {"id":{"name":"trunk1","path":"sprites/trunk1/trunk1.yy",},},
     {"id":{"name":"trees2","path":"sprites/trees2/trees2.yy",},},
-    {"id":{"name":"scriptPlayerDead","path":"scripts/scriptPlayerDead/scriptPlayerDead.yy",},},
-    {"id":{"name":"tilCol","path":"tilesets/tilCol/tilCol.yy",},},
-    {"id":{"name":"Mansion","path":"rooms/Mansion/Mansion.yy",},},
     {"id":{"name":"playButton","path":"objects/playButton/playButton.yy",},},
     {"id":{"name":"oTextQueued","path":"objects/oTextQueued/oTextQueued.yy",},},
     {"id":{"name":"scriptPlayerDead","path":"scripts/scriptPlayerDead/scriptPlayerDead.yy",},},
@@ -145,20 +140,14 @@
     {"id":{"name":"sprPlayerIdle","path":"sprites/sprPlayerIdle/sprPlayerIdle.yy",},},
     {"id":{"name":"trees5","path":"sprites/trees5/trees5.yy",},},
     {"id":{"name":"sTextBoxes","path":"sprites/sTextBoxes/sTextBoxes.yy",},},
-<<<<<<< HEAD
     {"id":{"name":"scriptPlayerAttack","path":"scripts/scriptPlayerAttack/scriptPlayerAttack.yy",},},
-=======
     {"id":{"name":"sprGatito","path":"sprites/sprGatito/sprGatito.yy",},},
-    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
+  ],
+  "RoomOrderNodes": [
     {"roomId":{"name":"Cuarto","path":"rooms/Cuarto/Cuarto.yy",},},
-<<<<<<< HEAD
-    {"roomId":{"name":"Sala","path":"rooms/Sala/Sala.yy",},},
-    {"roomId":{"name":"Mansion","path":"rooms/Mansion/Mansion.yy",},},
-=======
     {"roomId":{"name":"Mansion","path":"rooms/Mansion/Mansion.yy",},},
     {"roomId":{"name":"Menu1_2","path":"rooms/Menu1_2/Menu1_2.yy",},},
     {"roomId":{"name":"Sala","path":"rooms/Sala/Sala.yy",},},
->>>>>>> 671c19c1aa0b36c9dbf2258d7cca45dc512d190f
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
