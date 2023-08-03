@@ -108,7 +108,7 @@
   "origin": 9,
   "parent": {
     "name": "Dante",
-    "path": "folders/Sprites/Dante.yy",
+    "path": "folders/Sprites/Armas/Dante.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
