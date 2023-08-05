@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object15",
+  "name": "tarjetaUNIPOLI",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],

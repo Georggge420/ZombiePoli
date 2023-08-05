@@ -48,7 +48,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.4.0.84",
+    "IDEVersion": "2023.6.0.92",
   },
   "resources": [
     {"id":{"name":"monster","path":"sprites/monster/monster.yy",},},
@@ -82,11 +82,8 @@
     {"id":{"name":"huevo","path":"objects/huevo/huevo.yy",},},
     {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
     {"id":{"name":"cuchillo","path":"sprites/cuchillo/cuchillo.yy",},},
-<<<<<<< HEAD
     {"id":{"name":"scriptRoomTransition","path":"scripts/scriptRoomTransition/scriptRoomTransition.yy",},},
-=======
     {"id":{"name":"credencial","path":"sprites/credencial/credencial.yy",},},
->>>>>>> 8790ed74b9ab333ed49365897dcdd4a6790fbf1a
     {"id":{"name":"sprVidaContorno","path":"sprites/sprVidaContorno/sprVidaContorno.yy",},},
     {"id":{"name":"chesco","path":"objects/chesco/chesco.yy",},},
     {"id":{"name":"katana","path":"sprites/katana/katana.yy",},},
@@ -95,7 +92,7 @@
     {"id":{"name":"scriptPlayerHeal","path":"scripts/scriptPlayerHeal/scriptPlayerHeal.yy",},},
     {"id":{"name":"trunk1","path":"sprites/trunk1/trunk1.yy",},},
     {"id":{"name":"trees2","path":"sprites/trees2/trees2.yy",},},
-    {"id":{"name":"Object15","path":"objects/Object15/Object15.yy",},},
+    {"id":{"name":"tarjetaUNIPOLI","path":"objects/tarjetaUNIPOLI/tarjetaUNIPOLI.yy",},},
     {"id":{"name":"playButton","path":"objects/playButton/playButton.yy",},},
     {"id":{"name":"dante_cuchillo","path":"sprites/dante_cuchillo/dante_cuchillo.yy",},},
     {"id":{"name":"oTextQueued","path":"objects/oTextQueued/oTextQueued.yy",},},

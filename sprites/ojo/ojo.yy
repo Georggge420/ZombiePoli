@@ -28,8 +28,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "Zombiepoli",
-    "path": "Zombiepoli.yyp",
+    "name": "Enemigos",
+    "path": "folders/Sprites/Enemigos.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
