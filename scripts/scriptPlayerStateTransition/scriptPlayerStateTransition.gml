@@ -1,0 +1,7 @@
+
+function scriptPlayerStateTransition(){
+	scriptPlayerCollision();
+	
+	scriptPlayerMovment();
+
+}

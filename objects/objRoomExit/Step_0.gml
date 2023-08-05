@@ -3,8 +3,8 @@ if(instance_exists(Player)) && (position_meeting(Player.x,Player.y,id)){
 	global.targetX = targetX;
 	global.targetY = targetY;
 	global.targetDirection = Player.direction;
-	room_goto(targetRoom);
+	with(Player) state = scriptPlayerStateTransition;
+	scriptRoomTransition(type, targetRoom);
 	instance_destroy();
-	
 }
 

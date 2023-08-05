@@ -28,4 +28,11 @@ hitColdown = 0;
 healColdown = 0;
 estadoVivo=true;
 
+if(global.targetX != -1){
+	x=global.targetX;
+	y=global.targetY;
+	direction = global.targetDirection;
+}
+
+
 

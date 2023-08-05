@@ -6,3 +6,8 @@
 #macro RESOLUTION_W 1280
 #macro RESOLUTION_H 720
 
+#macro TRANSITION_SPEED 0.05
+#macro OUT 0
+#macro IN 1
+
+
