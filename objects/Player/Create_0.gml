@@ -22,8 +22,6 @@ speedBonk = 1.5;
 z=0;
 
 
-global.vidaTot = 0;
-global.vida=2;
 hitColdown = 0;
 healColdown = 0;
 estadoVivo=true;

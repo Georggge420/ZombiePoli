@@ -10,4 +10,12 @@
 #macro OUT 0
 #macro IN 1
 
-
+enum  ENEMYSTATE{
+	IDLE,
+	WANDER,
+	CHASE,
+	ATTACK,
+	HURT,
+	DIE,
+	WAIT
+}

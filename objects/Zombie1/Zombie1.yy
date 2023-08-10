@@ -5,7 +5,6 @@
   "eventList": [],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"cEntidad","path":"objects/cEntidad/cEntidad.yy",},"propertyId":{"name":"entidadHostil","path":"objects/cEntidad/cEntidad.yy",},"value":"True",},
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"cEntidad","path":"objects/cEntidad/cEntidad.yy",},"propertyId":{"name":"entidadHitScript","path":"objects/cEntidad/cEntidad.yy",},"value":"eHitDestroy",},
   ],
   "parent": {
