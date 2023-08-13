@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "streetSidewalks",
-  "bbox_bottom": 528,
-  "bbox_left": 26,
-  "bbox_right": 467,
-  "bbox_top": 26,
+  "name": "outside_stuff2",
+  "bbox_bottom": 383,
+  "bbox_left": 0,
+  "bbox_right": 511,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e4d7d537-0a6b-4293-b89e-ff519f22f888",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"08c10bb5-dcb9-44f1-b74b-2922ec7bdc4d",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 555,
+  "height": 384,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"53f81a37-90ae-46d3-b6a0-591ab60b6b86","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f3c69f7d-22b9-4b3c-bd9e-f1e15c4024d6","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "streetSidewalks",
+    "name": "outside_stuff2",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e4d7d537-0a6b-4293-b89e-ff519f22f888","path":"sprites/streetSidewalks/streetSidewalks.yy",},},},"Disabled":false,"id":"f401e3ba-681c-4b14-817d-ed31b71d8216","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"08c10bb5-dcb9-44f1-b74b-2922ec7bdc4d","path":"sprites/outside_stuff2/outside_stuff2.yy",},},},"Disabled":false,"id":"7150349f-b872-4990-8bfd-df5554f27585","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 468,
+  "width": 512,
 }

@@ -13,6 +13,7 @@
     {"name":"inst_7D3C2235","path":"rooms/Cuarto/Cuarto.yy",},
     {"name":"inst_2902F78","path":"rooms/Cuarto/Cuarto.yy",},
     {"name":"inst_4DD89204","path":"rooms/Cuarto/Cuarto.yy",},
+    {"name":"inst_2CD33EBC","path":"rooms/Cuarto/Cuarto.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -25,9 +26,15 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_4DD89204","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objRoomExit","path":"objects/objRoomExit/objRoomExit.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objRoomExit","path":"objects/objRoomExit/objRoomExit.yy",},"propertyId":{"name":"targetRoom","path":"objects/objRoomExit/objRoomExit.yy",},"value":"Mansion",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objRoomExit","path":"objects/objRoomExit/objRoomExit.yy",},"propertyId":{"name":"targetY","path":"objects/objRoomExit/objRoomExit.yy",},"value":"220",},
-            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objRoomExit","path":"objects/objRoomExit/objRoomExit.yy",},"propertyId":{"name":"targetX","path":"objects/objRoomExit/objRoomExit.yy",},"value":"168",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objRoomExit","path":"objects/objRoomExit/objRoomExit.yy",},"propertyId":{"name":"targetX","path":"objects/objRoomExit/objRoomExit.yy",},"value":"270",},
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objRoomExit","path":"objects/objRoomExit/objRoomExit.yy",},"propertyId":{"name":"type","path":"objects/objRoomExit/objRoomExit.yy",},"value":"TRANS_TYPE.FADE",},
           ],"rotation":0.0,"scaleX":1.0,"scaleY":3.84375,"x":784.0,"y":470.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2CD33EBC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"objRoomExit","path":"objects/objRoomExit/objRoomExit.yy",},"properties":[
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objRoomExit","path":"objects/objRoomExit/objRoomExit.yy",},"propertyId":{"name":"targetRoom","path":"objects/objRoomExit/objRoomExit.yy",},"value":"Cocina",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objRoomExit","path":"objects/objRoomExit/objRoomExit.yy",},"propertyId":{"name":"targetY","path":"objects/objRoomExit/objRoomExit.yy",},"value":"220",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objRoomExit","path":"objects/objRoomExit/objRoomExit.yy",},"propertyId":{"name":"targetX","path":"objects/objRoomExit/objRoomExit.yy",},"value":"270",},
+            {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"objRoomExit","path":"objects/objRoomExit/objRoomExit.yy",},"propertyId":{"name":"type","path":"objects/objRoomExit/objRoomExit.yy",},"value":"TRANS_TYPE.FADE",},
+          ],"rotation":0.0,"scaleX":1.0,"scaleY":3.84375,"x":0.0,"y":480.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":true,"visible":true,},
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Col","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":true,"inheritLayerSettings":true,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":38,"SerialiseWidth":50,"TileCompressedData":[
 -150,-2147483648,-1100,0,-43,1,-7,0,1,1,-41,0,1,1,-7,0,1,1,-41,0,-2,1,-6,0,1,1,-42,0,-3,1,-4,0,1,1,-44,0,-6,1,-49,0,1,1,-49,0,1,1,-49,0,1,1,
