@@ -1,5 +1,9 @@
 //Globales y iniciales
 randomize();
+
+global.vidaTot = 0;
+global.vida=5;
+
 global.gamePaused = false;
 global.textSpeed =	.5;
 

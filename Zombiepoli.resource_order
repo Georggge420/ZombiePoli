@@ -8,6 +8,7 @@
     {"name":"Paths","order":6,"path":"folders/Paths.yy",},
     {"name":"Rooms","order":7,"path":"folders/Rooms.yy",},
     {"name":"Scripts","order":8,"path":"folders/Scripts.yy",},
+    {"name":"Ojo","order":2,"path":"folders/Scripts/Ojo.yy",},
     {"name":"Sequences","order":9,"path":"folders/Sequences.yy",},
     {"name":"Shaders","order":10,"path":"folders/Shaders.yy",},
     {"name":"Sounds","order":11,"path":"folders/Sounds.yy",},
@@ -26,14 +27,12 @@
     {"name":"monster","order":2,"path":"sprites/monster/monster.yy",},
     {"name":"dande_pistola","order":9,"path":"sprites/dande_pistola/dande_pistola.yy",},
     {"name":"chilaquiles","order":3,"path":"sprites/chilaquiles/chilaquiles.yy",},
-    {"name":"scriptCalcAttack","order":2,"path":"scripts/scriptCalcAttack/scriptCalcAttack.yy",},
     {"name":"bush1","order":5,"path":"sprites/bush1/bush1.yy",},
     {"name":"trees1","order":13,"path":"sprites/trees1/trees1.yy",},
     {"name":"Menu1_2","order":2,"path":"rooms/Menu1_2/Menu1_2.yy",},
     {"name":"grass1","order":3,"path":"sprites/grass1/grass1.yy",},
-    {"name":"ojo","order":1,"path":"sprites/ojo/ojo.yy",},
+    {"name":"sprOjo","order":1,"path":"sprites/sprOjo/sprOjo.yy",},
     {"name":"Zombie1","order":1,"path":"objects/Zombie1/Zombie1.yy",},
-    {"name":"eHitDestroy","order":1,"path":"scripts/eHitDestroy/eHitDestroy.yy",},
     {"name":"streetSidewalks","order":12,"path":"sprites/streetSidewalks/streetSidewalks.yy",},
     {"name":"sCarta","order":9,"path":"sprites/sCarta/sCarta.yy",},
     {"name":"main_hall","order":15,"path":"sprites/main_hall/main_hall.yy",},
@@ -48,9 +47,11 @@
     {"name":"scriptPlayerCollision","order":5,"path":"scripts/scriptPlayerCollision/scriptPlayerCollision.yy",},
     {"name":"sprPlayerJap","order":5,"path":"sprites/sprPlayerJap/sprPlayerJap.yy",},
     {"name":"sprTrigger","order":13,"path":"sprites/sprTrigger/sprTrigger.yy",},
+    {"name":"enemigoTileCollision","order":3,"path":"scripts/enemigoTileCollision/enemigoTileCollision.yy",},
     {"name":"scriptScreenShake","order":1,"path":"scripts/scriptScreenShake/scriptScreenShake.yy",},
     {"name":"trunk4","order":11,"path":"sprites/trunk4/trunk4.yy",},
     {"name":"huevo","order":1,"path":"objects/huevo/huevo.yy",},
+    {"name":"hurtEnemy","order":5,"path":"scripts/hurtEnemy/hurtEnemy.yy",},
     {"name":"cuchillo","order":1,"path":"sprites/cuchillo/cuchillo.yy",},
     {"name":"scriptRoomTransition","order":4,"path":"scripts/scriptRoomTransition/scriptRoomTransition.yy",},
     {"name":"bossFight","order":8,"path":"tilesets/bossFight/bossFight.yy",},
@@ -67,21 +68,38 @@
     {"name":"oTextQueued","order":3,"path":"objects/oTextQueued/oTextQueued.yy",},
     {"name":"scriptPlayerDead","order":2,"path":"scripts/scriptPlayerDead/scriptPlayerDead.yy",},
     {"name":"sprPlayerJapHB","order":7,"path":"sprites/sprPlayerJapHB/sprPlayerJapHB.yy",},
+    {"name":"ojoDie","order":2,"path":"scripts/ojoDie/ojoDie.yy",},
     {"name":"scriptPlayerStateTransition","order":13,"path":"scripts/scriptPlayerStateTransition/scriptPlayerStateTransition.yy",},
+<<<<<<< HEAD
     {"name":"tsCarpetsOutside","order":4,"path":"tilesets/tsCarpetsOutside/tsCarpetsOutside.yy",},
+=======
+    {"name":"sprOjoHit","order":2,"path":"sprites/sprOjoHit/sprOjoHit.yy",},
+>>>>>>> da3914bdf50d5f6e34c054ffadedb3de773d4b40
     {"name":"scriptPlayerHealUp","order":3,"path":"scripts/scriptPlayerHealUp/scriptPlayerHealUp.yy",},
     {"name":"Mansion","order":7,"path":"rooms/Mansion/Mansion.yy",},
     {"name":"scriptPlayerStateFree","order":6,"path":"scripts/scriptPlayerStateFree/scriptPlayerStateFree.yy",},
     {"name":"sprPlayerRoll","order":3,"path":"sprites/sprPlayerRoll/sprPlayerRoll.yy",},
     {"name":"scriptPlayerRoll","order":9,"path":"scripts/scriptPlayerRoll/scriptPlayerRoll.yy",},
+<<<<<<< HEAD
     {"name":"tsGrass_floor","order":2,"path":"tilesets/tsGrass_floor/tsGrass_floor.yy",},
+=======
+    {"name":"cEnemigo","order":1,"path":"objects/cEnemigo/cEnemigo.yy",},
+>>>>>>> da3914bdf50d5f6e34c054ffadedb3de773d4b40
     {"name":"scriptPlayerLocked","order":7,"path":"scripts/scriptPlayerLocked/scriptPlayerLocked.yy",},
+    {"name":"ojoHurt","order":1,"path":"scripts/ojoHurt/ojoHurt.yy",},
     {"name":"trunk2","order":9,"path":"sprites/trunk2/trunk2.yy",},
     {"name":"escopeta","order":3,"path":"sprites/escopeta/escopeta.yy",},
     {"name":"grass2","order":4,"path":"sprites/grass2/grass2.yy",},
     {"name":"healthBar","order":4,"path":"objects/healthBar/healthBar.yy",},
+    {"name":"scriptClacAttack","order":5,"path":"scripts/scriptClacAttack/scriptClacAttack.yy",},
     {"name":"meleeAttack","order":12,"path":"scripts/meleeAttack/meleeAttack.yy",},
+    {"name":"sprOjoPutazo","order":3,"path":"sprites/sprOjoPutazo/sprOjoPutazo.yy",},
     {"name":"oPuerta","order":1,"path":"objects/oPuerta/oPuerta.yy",},
+<<<<<<< HEAD
+=======
+    {"name":"oOjo","order":2,"path":"objects/oOjo/oOjo.yy",},
+    {"name":"Main_hall","order":1,"path":"sprites/Main_hall/Main_hall.yy",},
+>>>>>>> da3914bdf50d5f6e34c054ffadedb3de773d4b40
     {"name":"trees4","order":16,"path":"sprites/trees4/trees4.yy",},
     {"name":"sprSombra","order":10,"path":"sprites/sprSombra/sprSombra.yy",},
     {"name":"sprPlayerBonk","order":4,"path":"sprites/sprPlayerBonk/sprPlayerBonk.yy",},
@@ -96,10 +114,14 @@
     {"name":"Cuarto","order":6,"path":"rooms/Cuarto/Cuarto.yy",},
     {"name":"bush3","order":7,"path":"sprites/bush3/bush3.yy",},
     {"name":"sprPlayerRun","order":2,"path":"sprites/sprPlayerRun/sprPlayerRun.yy",},
+<<<<<<< HEAD
     {"name":"tsOutsideStuff2","order":7,"path":"tilesets/tsOutsideStuff2/tsOutsideStuff2.yy",},
+=======
+    {"name":"ojoChase","order":3,"path":"scripts/ojoChase/ojoChase.yy",},
+>>>>>>> da3914bdf50d5f6e34c054ffadedb3de773d4b40
     {"name":"objGame","order":2,"path":"objects/objGame/objGame.yy",},
     {"name":"trees3","order":15,"path":"sprites/trees3/trees3.yy",},
-    {"name":"scriptPlayerHit","order":4,"path":"scripts/scriptPlayerHit/scriptPlayerHit.yy",},
+    {"name":"scriptPlayerHit","order":1,"path":"scripts/scriptPlayerHit/scriptPlayerHit.yy",},
     {"name":"trunk3","order":10,"path":"sprites/trunk3/trunk3.yy",},
     {"name":"utilities_inside","order":5,"path":"sprites/utilities_inside/utilities_inside.yy",},
     {"name":"huevito","order":1,"path":"sprites/huevito/huevito.yy",},
@@ -110,7 +132,11 @@
     {"name":"outsideMansion","order":14,"path":"sprites/outsideMansion/outsideMansion.yy",},
     {"name":"Sprite20","order":4,"path":"sprites/Sprite20/Sprite20.yy",},
     {"name":"pistola","order":4,"path":"sprites/pistola/pistola.yy",},
+<<<<<<< HEAD
     {"name":"carpetsOutside","order":3,"path":"sprites/carpetsOutside/carpetsOutside.yy",},
+=======
+    {"name":"scriptPlayerSpeedUp","order":14,"path":"scripts/scriptPlayerSpeedUp/scriptPlayerSpeedUp.yy",},
+>>>>>>> da3914bdf50d5f6e34c054ffadedb3de773d4b40
     {"name":"sprPuertaDestruida","order":12,"path":"sprites/sprPuertaDestruida/sprPuertaDestruida.yy",},
     {"name":"bush2","order":6,"path":"sprites/bush2/bush2.yy",},
     {"name":"sprPlayerIdle","order":1,"path":"sprites/sprPlayerIdle/sprPlayerIdle.yy",},
