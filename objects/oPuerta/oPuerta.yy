@@ -21,7 +21,7 @@
     "name": "cEntidad",
     "path": "objects/cEntidad/cEntidad.yy",
   },
-  "persistent": true,
+  "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
   "physicsFriction": 0.2,
