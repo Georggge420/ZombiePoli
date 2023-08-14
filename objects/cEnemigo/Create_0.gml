@@ -11,8 +11,12 @@ waitDuration = 60;
 wait = 0;
 aggroCheck = 0;
 aggroCheckDuration = 5;
+stateTarget = state;
+statePrevious = state;
+state_wait = 0;
+stateWaitDuration = 0;
 
-sprMove = sprOjo;
+sprMove = -1;
 
 enemyScript[ENEMYSTATE.IDLE] = -1;
 enemyScript[ENEMYSTATE.WANDER] = -1;

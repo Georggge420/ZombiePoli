@@ -8,7 +8,7 @@
   "managed": true,
   "overriddenProperties": [
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"cEnemigo","path":"objects/cEnemigo/cEnemigo.yy",},"propertyId":{"name":"enemySpeed","path":"objects/cEnemigo/cEnemigo.yy",},"value":"1.50",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"cEnemigo","path":"objects/cEnemigo/cEnemigo.yy",},"propertyId":{"name":"enemyHP","path":"objects/cEnemigo/cEnemigo.yy",},"value":"10",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"cEnemigo","path":"objects/cEnemigo/cEnemigo.yy",},"propertyId":{"name":"enemyHP","path":"objects/cEnemigo/cEnemigo.yy",},"value":"20",},
   ],
   "parent": {
     "name": "Personajes",

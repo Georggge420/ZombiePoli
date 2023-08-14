@@ -2,7 +2,10 @@
 randomize();
 
 global.vidaTot = 0;
-global.vida=5;
+global.vida=6;
+global.speedW = 4.0;
+global.speedR = 6.0;
+global.AP = 5;
 
 global.gamePaused = false;
 global.textSpeed =	.5;

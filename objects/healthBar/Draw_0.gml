@@ -1,7 +1,7 @@
-if(global.vidaTot > 8){ global.vidaTot = 8;}
+if(global.vidaTot > 7){ global.vidaTot = 7;}
 if(global.vidaTot < 0){ global.vidaTot = 0;}
 
-if(global.vida > 21){ global.vida = 21;}
+if(global.vida > 20){ global.vida = 20;}
 if(global.vida < 0){ global.vida = 0;}
 
 

@@ -11,7 +11,7 @@ function scriptCalcAttack(_sprite){
 				ds_list_add(hitByAttack, hitID);
 				with (hitID){
 						if(object_is_ancestor(object_index, cEnemigo)){
-							hurtEnemy(id, 5, other.id, 40)
+							hurtEnemy(id, Player.attackPoints, other.id, 40)
 						}
 						if(entidadHitScript != -1) script_execute(entidadHitScript);
 							

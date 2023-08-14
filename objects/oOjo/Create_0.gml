@@ -5,9 +5,9 @@ state = ENEMYSTATE.WANDER;
 
 sprMove = sprOjo;
 sprHit = sprOjoPutazo;
-sprDie = sprOjoHit;
+sprDie = sprOjoDie;
 
-enemyScript[ENEMYSTATE.WANDER] = ojoWander;
-enemyScript[ENEMYSTATE.CHASE] = ojoChase;
-enemyScript[ENEMYSTATE.HURT] = ojoHurt;
-enemyScript[ENEMYSTATE.DIE] = ojoDie;
+enemyScript[ENEMYSTATE.WANDER] = stateWander;
+enemyScript[ENEMYSTATE.CHASE] = stateChase;
+enemyScript[ENEMYSTATE.HURT] = stateHurt;
+enemyScript[ENEMYSTATE.DIE] = stateDie;

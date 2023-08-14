@@ -3,7 +3,7 @@ keyRight = keyboard_check(ord("D"))|| keyboard_check(vk_right);
 keyUp = keyboard_check(ord("W")) || keyboard_check(vk_up);
 keyDown = keyboard_check(ord("S")) || keyboard_check(vk_down);
 keyActivate = keyboard_check(vk_space);
-keyAttack = keyboard_check(ord("O"));
+keyAttack = keyboard_check(ord("O")) || keyboard_check(ord("Z"));
 keyItem = keyboard_check(ord("P"));
 
 inputDirection = point_direction(0,0, keyRight-keyLeft, keyDown - keyUp);

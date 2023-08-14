@@ -1,5 +1,5 @@
 
 function scriptPlayerAttack(){
-	script_execute(stateAttack)
+	script_execute(meleeAttack);
 
 }
